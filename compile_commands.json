@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/nikolay/Documents/vorobev-nikolay-game",
+  "command": "/usr/bin/c++   -isystem /home/nikolay/Documents/vorobev-nikolay-game/lib/BearLibTerminal/include -isystem /home/nikolay/Documents/vorobev-nikolay-game/include    -std=gnu++14 -o CMakeFiles/vorobev-nikolay-game.dir/src/Character.cpp.o -c /home/nikolay/Documents/vorobev-nikolay-game/src/Character.cpp",
+  "file": "/home/nikolay/Documents/vorobev-nikolay-game/src/Character.cpp"
+},
+{
+  "directory": "/home/nikolay/Documents/vorobev-nikolay-game",
+  "command": "/usr/bin/c++   -isystem /home/nikolay/Documents/vorobev-nikolay-game/lib/BearLibTerminal/include -isystem /home/nikolay/Documents/vorobev-nikolay-game/include    -std=gnu++14 -o CMakeFiles/vorobev-nikolay-game.dir/src/Movement.cpp.o -c /home/nikolay/Documents/vorobev-nikolay-game/src/Movement.cpp",
+  "file": "/home/nikolay/Documents/vorobev-nikolay-game/src/Movement.cpp"
+},
+{
+  "directory": "/home/nikolay/Documents/vorobev-nikolay-game",
+  "command": "/usr/bin/c++   -isystem /home/nikolay/Documents/vorobev-nikolay-game/lib/BearLibTerminal/include -isystem /home/nikolay/Documents/vorobev-nikolay-game/include    -std=gnu++14 -o CMakeFiles/vorobev-nikolay-game.dir/src/main.cpp.o -c /home/nikolay/Documents/vorobev-nikolay-game/src/main.cpp",
+  "file": "/home/nikolay/Documents/vorobev-nikolay-game/src/main.cpp"
+}
+]
